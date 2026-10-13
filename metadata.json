@@ -1,0 +1,6 @@
+CAPABILITY
+  "name": "Axturn",
+  "description": "A fast, sleek, privacy-focused modern web browser with multi-tabs, bookmarks, history, speed dial, and incognito mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITCAPABILITYY_SERVER_SIDE_GEMINI_API"]
+}
